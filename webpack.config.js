@@ -71,6 +71,7 @@ plugins:[
     new HTMLPlugin({
        title:"hello webpack" 
     })
-]
+],
+devtool:"inline-source-map"
 }
 

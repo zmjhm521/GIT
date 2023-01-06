@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from "vue"
-import A from "./components/a.vue"
+import A from "./components/A.vue"
 import B from "./components/b.vue"
 const isShow = ref(true)
 </script>

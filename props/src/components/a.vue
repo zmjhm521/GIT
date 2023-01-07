@@ -2,5 +2,5 @@
 const props = defineProps(["name"])
 </script>
 <template>
-    <h2>A组件{{ props.name }}</h2>
+    <h1>A组件{{ props.name }}</h1>
 </template>
